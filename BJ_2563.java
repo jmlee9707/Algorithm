@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// 색종이
 public class BJ_2563 {
 	static int N;
 	static int [][] paper;
