@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// 모든 순열
 public class BJ_10974 {
 	static int N;
 	static int[] numbers;
