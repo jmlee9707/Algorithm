@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+// 백설공주와 일곱 난쟁이
 public class BJ_3040 {
 
 		static int N, MAX, SUM, delete1, delete2;
