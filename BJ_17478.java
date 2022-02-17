@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class BJ_17478{
-
+// 재귀함수가 뭔가요
 	
 	public static int N;
 	public static String un = "____";
