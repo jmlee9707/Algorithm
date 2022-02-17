@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//일곱 난쟁이
 public class BJ_2309{
 
 	static int N, MAX, SUM;
