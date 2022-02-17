@@ -1,6 +1,6 @@
 import java.util.HashSet;
 import java.util.Scanner;
-
+// 
 public class BJ_1987 {
 
 	static int R, C, answer;
