@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//설탕 배달
 public class BJ_2839{
 
 	static int N, sugar, res;
