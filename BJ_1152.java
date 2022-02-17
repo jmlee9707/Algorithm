@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+// 단어의 개수
 public class BJ_1152 {
 
 	static int count;
