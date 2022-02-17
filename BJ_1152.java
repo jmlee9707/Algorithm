@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main_1152 {
+public class BJ_1152 {
 
 	static int count;
 

@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class Main_1987 {
+public class BJ_1987 {
 
 	static int R, C, answer;
 	static char[][] map;

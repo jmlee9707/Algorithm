@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_2563 {
+public class BJ_2563 {
 	static int N;
 	static int [][] paper;
 	static int size;

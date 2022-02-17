@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_2839{
+public class BJ_2839{
 
 	static int N, sugar, res;
 

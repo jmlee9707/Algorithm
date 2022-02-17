@@ -2,7 +2,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_2309{
+public class BJ_2309{
 
 	static int N, MAX, SUM;
 

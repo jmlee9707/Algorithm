@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_3040 {
+public class BJ_3040 {
 
 		static int N, MAX, SUM, delete1, delete2;
 

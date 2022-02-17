@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_17478{
+public class BJ_17478{
 
 	
 	public static int N;

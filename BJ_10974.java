@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main_10974 {
+public class BJ_10974 {
 	static int N;
 	static int[] numbers;
 	static boolean[] isChecked;
