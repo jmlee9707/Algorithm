@@ -1,5 +1,6 @@
 
 import java.util.Scanner;
+// 동전0
 public class BJ_11047 {
     static int N, K, count;
     static int[] coin;
