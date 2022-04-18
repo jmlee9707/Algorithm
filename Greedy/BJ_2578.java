@@ -5,6 +5,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class BJ_2578 {
+    //빙고
     static int N = 25;
     static int cnt, call, res; // 빙고 수, 사회자가 부른 수의 값
     static int[][] board;
