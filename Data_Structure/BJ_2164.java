@@ -14,11 +14,10 @@ public class BJ_2164 {
             que.add(i); //
         }
 
-        int cnt = N;
         while(que.size()>1){
             que.poll(); // 제일 위의 카드 버리기
             int tmp = que.peek();
-            System.out.println(tmp);
+           // System.out.println(tmp);
             que.poll();
             que.add(tmp);
         }
