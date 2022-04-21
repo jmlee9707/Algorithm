@@ -1,4 +1,4 @@
-package Data_Structure;
+package BinarySearch;
 
 import java.util.Arrays;
 import java.util.Scanner;
