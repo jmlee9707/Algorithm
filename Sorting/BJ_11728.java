@@ -34,7 +34,7 @@ public class BJ_11728 {
 
         // bufferedWriter 사용하기
         for (int r : arr) {
-            bw.write(String.valueOf(r) + " ");
+            bw.write(String.valueOf(r) + " "); // int 출력시 string으로 바꿔주어야한다
         }
 
         bw.flush();
