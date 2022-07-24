@@ -8,3 +8,4 @@
 | 2022.07.21 | [2606](https://www.acmicpc.net/problem/2606) | 바이러스  | DFS/BFS | 실버3  |
 | 2022.07.21 | [7576](https://www.acmicpc.net/problem/7576) | 토마토    | DFS/BFS | 골드5  |
 | 2022.07.22 | [7569](https://www.acmicpc.net/problem/7576) | 토마토    | DFS/BFS | 골드5  |
+| 2022.07.22 | [2178](https://www.acmicpc.net/problem/7576) | 미로탐색  | DFS/BFS | 실버1  |
