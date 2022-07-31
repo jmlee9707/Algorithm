@@ -13,3 +13,4 @@
 | 2022.07.26 | [17086](https://www.acmicpc.net/problem/17086) | 아기상어2  |  DFS/BFS   | 실버2  |
 | 2022.07.26 |  [1012](https://www.acmicpc.net/problem/1012)  | 유기농배추 |  DFS/BFS   | 실버2  |
 | 2022.07.27 | [20436](https://www.acmicpc.net/problem/20436) | ZOAC 3     | 시뮬레이션 | 실버4  |
+| 2022.07.31 |  [5212](https://www.acmicpc.net/problem/5212)  | 지구온난화 |  BFS/DRS   | 실버2  |
