@@ -17,3 +17,4 @@
 | 2022.08.02 | [21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기 |    구현    | 골드5  |
 
 | 2022.08.03 | [17276](https://www.acmicpc.net/problem/17276) | 배열돌리기 | 구현 | 실버2 |
+| 2022.08.06 | [14719](https://www.acmicpc.net/problem/14719) | 빗물 | 구현 | 골드5 |
