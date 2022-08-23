@@ -15,8 +15,16 @@
 | 2022.07.27 | [20436](https://www.acmicpc.net/problem/20436) | ZOAC 3                 | 시뮬레이션 | 실버4  |
 | 2022.07.31 |  [5212](https://www.acmicpc.net/problem/5212)  | 지구온난화             |  BFS/DFS   | 실버2  |
 | 2022.08.02 | [21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기 |    구현    | 골드5  |
-
 | 2022.08.03 | [17276](https://www.acmicpc.net/problem/17276) | 배열돌리기 | 구현 | 실버2 |
 | 2022.08.06 | [14719](https://www.acmicpc.net/problem/14719) | 빗물 | 구현 | 골드5 |
 | 2022.08.09 | [16719](https://www.acmicpc.net/problem/16719) | ZOAC | 구현 | 골드5 |
 | 2022.08.09 | [17135](https://www.acmicpc.net/problem/17135) | 캐슬디펜스 | 구현 | 골드3 |
+
+# 프로그래머스 문제 풀이
+
+### WHAT I STUDIED
+|    날짜    |                      링크                    | 제목                   | 난이도 |
+| :--------: | :--------------------------------------------: | :--------------------- | :----: |
+| 2022.08.09 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301" target="_blank">숫자 문자열과 영단어</a>  | 숫자 문자열과 영단어              | LV.1  |
+| 2022.08.23 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410" target="_blank">신규아이디 추천</a>   | 신규아이디 추천              | LV.1  |
+| 2022.08.23 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888" target="_blank">오픈채팅방</a>  | 오픈 채팅방             | LV.2  |
