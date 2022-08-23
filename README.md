@@ -19,6 +19,7 @@
 | 2022.08.06 | [14719](https://www.acmicpc.net/problem/14719) | 빗물                   |    구현    | 골드5  |
 | 2022.08.09 | [16719](https://www.acmicpc.net/problem/16719) | ZOAC                   |    구현    | 골드5  |
 | 2022.08.09 | [17135](https://www.acmicpc.net/problem/17135) | 캐슬디펜스             |    구현    | 골드3  |
+| 2022.08.23 |  [2792](https://www.acmicpc.net/problem/2792)  | 보석상자               |  이분탐색  | 실버2  |
 
 <br />
 
