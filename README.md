@@ -22,6 +22,7 @@
 | 2022.08.23 |  [2792](https://www.acmicpc.net/problem/2792)  | 보석상자               |  이분탐색  | 실버2  |
 | 2022.08.26 |  [1003](https://www.acmicpc.net/problem/1003)  | 피보나치 함수          |     DP     | 실버3  |
 | 2022.08.28 | [14503](https://www.acmicpc.net/problem/14503) | 로봇청소기             | 시뮬레이션 | 골드5  |
+| 2022.08.28 | [17281](https://www.acmicpc.net/problem/17281) | ⚾                     | 시뮬레이션 | 골드4  |
 
 <br />
 
