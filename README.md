@@ -23,6 +23,7 @@
 | 2022.08.26 |  [1003](https://www.acmicpc.net/problem/1003)  | 피보나치 함수          |     DP     | 실버3  |
 | 2022.08.28 | [14503](https://www.acmicpc.net/problem/14503) | 로봇청소기             | 시뮬레이션 | 골드5  |
 | 2022.08.28 | [17281](https://www.acmicpc.net/problem/17281) | ⚾                     | 시뮬레이션 | 골드4  |
+| 2022.08.30 |  [1062](https://www.acmicpc.net/problem/1062)  | 가르침                 |  백트래킹  | 골드4  |
 
 <br />
 
@@ -35,3 +36,6 @@
 | 2022.08.09 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/81301" target="_blank">숫자 문자열과 영단어</a> | 숫자 문자열과 영단어 |  LV.1  |
 | 2022.08.23 |   <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410" target="_blank">신규아이디 추천</a>    | 신규아이디 추천      |  LV.1  |
 | 2022.08.23 |      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888" target="_blank">오픈채팅방</a>      | 오픈 채팅방          |  LV.2  |
+| 2022.08.26 |       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681" target="_blank">비밀지도</a>       | 비밀지도             |  LV.1  |
+| 2022.08.30 |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257" target="_blank">수식 최대화</a>      | 수식 최대화          |  LV.2  |
+| 2022.08.31 |         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank">2016</a>         | 2016                 |  LV.1  |
