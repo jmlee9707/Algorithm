@@ -44,3 +44,4 @@
 | 2022.08.26 |       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17681" target="_blank">비밀지도</a>       | 비밀지도             |  LV.1  |
 | 2022.08.30 |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67257" target="_blank">수식 최대화</a>      | 수식 최대화          |  LV.2  |
 | 2022.08.31 |         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank">2016</a>         | 2016                 |  LV.1  |
+| 2022.09.04 |        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42889" target="_blank">실패율</a>        | 실패율               |  LV.1  |
