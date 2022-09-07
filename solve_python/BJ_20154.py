@@ -15,18 +15,6 @@ for i in range(len(string)) :
     num.append(alpha[string[i]]) # 리스트 뒤에 더하기
 
 
-# while len(num)>1 :
-#     cal = []
-#     for i in range(len(num)) :
-#         if i+1<len(num) :
-#             cal.append(num[i]+ num[i+1])
-#             # del num[i+1] # num[i+1] 요소 삭제
-#         else : # 마지막 요소이면
-#             continue;
-#     num.clear()
-#     num = cal.copy() # 리스트 복사
-    
-
 number = sum(num) %10
 print(number)
 
