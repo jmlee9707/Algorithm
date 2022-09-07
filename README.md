@@ -29,6 +29,7 @@
 | 2022.09.04 |  [9046](https://www.acmicpc.net/problem/9046)  | 복호화                    |   문자열   | 브론즈2 |
 | 2022.09.04 | [10798](https://www.acmicpc.net/problem/10798) | 세로읽기                  |   문자열   | 브론즈1 |
 | 2022.09.04 | [20154](https://www.acmicpc.net/problem/20154) | 이 구역의 승자는 누구야?! |   문자열   | 브론즈1 |
+| 2022.09.07 |  [6550](https://www.acmicpc.net/problem/6550)  | 부분문자열                |   문자열   |  실버5  |
 
 <br />
 
