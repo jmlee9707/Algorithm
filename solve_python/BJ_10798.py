@@ -8,7 +8,7 @@ for _ in range(5) :
     
     # append는 배열 뒤에 덧붙인다는 의미
     word = input()
-    words.append(word)
+    words.append(word) 
     size.append(len(word))
 
 res = ''
