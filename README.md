@@ -52,3 +52,5 @@
 | 2022.09.06 |         <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17680" target="_blank">캐시</a>          | 캐시                  |  LV.2  |
 | 2022.09.12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1829" target="_blank">카카오프렌즈 컬러링북</a>  | 카카오프렌즈 컬러링북 |  LV.2  |
 | 2022.09.12 | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118667" target="_blank">두 큐 합 같게 만들기</a> | 두 큐 합 같게 만들기  |  LV.2  |
+| 2022.09.13 |       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁 대회</a>       | 양궁 대회             |  LV.2  |
+| 2022.09.14 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666" target="_blank">성격 유형 검사하기</a>  | 성격 유형 검사하기    |  LV.1  |
