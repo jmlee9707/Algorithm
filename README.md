@@ -55,3 +55,4 @@
 | 2022.09.13 |       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342" target="_blank">양궁 대회</a>       | 양궁 대회             |  LV.2  |
 | 2022.09.14 |  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666" target="_blank">성격 유형 검사하기</a>  | 성격 유형 검사하기    |  LV.1  |
 | 2022.09.18 |    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341" target="_blank">주차 요금 계산</a>     | 주차 요금 계산        |  LV.2  |
+| 2022.09.20 |        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890" target="_blank">후보키</a>         | 후보키                |  LV.2  |
