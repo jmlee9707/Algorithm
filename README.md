@@ -33,6 +33,7 @@
 | 2022.09.10 |  [4659](https://www.acmicpc.net/problem/4659)  | 비밀번호 발음하기         |   문자열   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 | 2022.09.13 |  [5582](https://www.acmicpc.net/problem/5582)  | 공통부분 문자열           |   문자열   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2022.09.13 |  [2023](https://www.acmicpc.net/problem/2023)  | 신기한 소수               |    수학    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2022.09.24 | [2023](https://www.acmicpc.net/problem/11725)  | 트리의 부모 찾기          |  DFS/BFS   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
