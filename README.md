@@ -35,6 +35,7 @@
 | 2022.09.13 |  [2023](https://www.acmicpc.net/problem/2023)  | 신기한 소수               |    수학    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2022.09.24 | [2023](https://www.acmicpc.net/problem/11725)  | 트리의 부모 찾기          |  DFS/BFS   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2022.09.27 |  [2667](https://www.acmicpc.net/problem/2667)  | 단지 번호 붙이기          |  DFS/BFS   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2022.09.27 |  [4963](https://www.acmicpc.net/problem/4963)  | 섬의 개수                 |  DFS/BFS   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
