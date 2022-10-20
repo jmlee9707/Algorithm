@@ -38,6 +38,7 @@
 | 2022.09.27 |  [4963](https://www.acmicpc.net/problem/4963)  | 섬의 개수                                      |    DFS/BFS    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2022.10.16 |  [1969](https://www.acmicpc.net/problem/1969)  | DNA                                            |   완전탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 | 2022.10.17 |  [2422](https://www.acmicpc.net/problem/2422)  | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | 완전탐색,조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2022.10.20 | [18511](https://www.acmicpc.net/problem/18511) | 큰 수 구성하기                                 |   완전탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 
 <br />
 
