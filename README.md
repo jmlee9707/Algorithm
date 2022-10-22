@@ -41,6 +41,7 @@
 | 2022.10.20 | [18511](https://www.acmicpc.net/problem/18511) | 큰 수 구성하기                                 |   완전탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 | 2022.10.22 |  [1929](https://www.acmicpc.net/problem/1929)  | 소수 구하기                                    |     수학      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2022.10.22 |  [2960](https://www.acmicpc.net/problem/2960)  | 에라토스테네스의 체                            |     수학      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2022.10.22 | [11724](https://www.acmicpc.net/problem/11724) | 연결요소의 개수                                |  그래프/dfs   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
