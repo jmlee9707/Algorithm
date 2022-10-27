@@ -45,6 +45,7 @@
 | 2022.10.25 |  [1697](https://www.acmicpc.net/problem/1697)  | 숨바꼭질                                       |  그래프/dfs   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2022.10.25 |  [2468](https://www.acmicpc.net/problem/2468)  | 안전영역                                       |  그래프/dfs   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2022.10.25 |  [1316](https://www.acmicpc.net/problem/1316)  | 그룹단어체커                                   |    문자열     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2022.10.27 |  [7682](https://www.acmicpc.net/problem/7682)  | 틱택토                                         |     구현      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <br />
 
