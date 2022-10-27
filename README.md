@@ -70,3 +70,4 @@
 | 2022.09.18 |    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341" target="_blank">주차 요금 계산</a>     | 주차 요금 계산        |  LV.2  |
 | 2022.09.20 |        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890" target="_blank">후보키</a>         | 후보키                |  LV.2  |
 | 2022.10.21 |    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334" target="_blank">신고 결과 받기</a>     | 신고 결과 받기        |  LV.1  |
+| 2022.10.27 |       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">타겟 넘버</a>       | 타겟 넘버             |  LV.2  |
