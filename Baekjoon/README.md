@@ -8,6 +8,7 @@
 | :--------: | :--------------------------------------------: | :------------------ | :--: | :-------------------------------------------------------------------------------: |
 | 2023.01.08 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 | 2023.01.09 |  [4396](https://www.acmicpc.net/problem/4396)  | 지뢰찾기            | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| 2023.01.10 |  [1913](https://www.acmicpc.net/problem/1913)  | 달팽이              | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 
 <br />
 
