@@ -11,6 +11,7 @@
 | 2023.01.10 |  [1913](https://www.acmicpc.net/problem/1913)  | 달팽이              | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 2023.01.11 | [12933](https://www.acmicpc.net/problem/12933) | 오리                | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 | 2023.01.13 | [20291](https://www.acmicpc.net/problem/20291) | 파일 정리           | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+| 2023.01.14 | [17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기2        | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 
 <br />
 
