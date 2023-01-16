@@ -4,14 +4,15 @@
 
 ### WHAT I STUDIED (2023)
 
-|    날짜    |                      번호                      | 제목                | 유형 |                                      난이도                                       |
-| :--------: | :--------------------------------------------: | :------------------ | :--: | :-------------------------------------------------------------------------------: |
-| 2023.01.08 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-| 2023.01.09 |  [4396](https://www.acmicpc.net/problem/4396)  | 지뢰찾기            | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-| 2023.01.10 |  [1913](https://www.acmicpc.net/problem/1913)  | 달팽이              | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 2023.01.11 | [12933](https://www.acmicpc.net/problem/12933) | 오리                | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 2023.01.13 | [20291](https://www.acmicpc.net/problem/20291) | 파일 정리           | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
-| 2023.01.14 | [17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기2        | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+|    날짜    |                      번호                      | 제목                | 유형 |                                       난이도                                       |
+| :--------: | :--------------------------------------------: | :------------------ | :--: | :--------------------------------------------------------------------------------: |
+| 2023.01.08 | [20546](https://www.acmicpc.net/problem/20546) | 🐜 기적의 매매법 🐜 | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.01.09 |  [4396](https://www.acmicpc.net/problem/4396)  | 지뢰찾기            | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2023.01.10 |  [1913](https://www.acmicpc.net/problem/1913)  | 달팽이              | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.11 | [12933](https://www.acmicpc.net/problem/12933) | 오리                | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.13 | [20291](https://www.acmicpc.net/problem/20291) | 파일 정리           | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.14 | [17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기2        | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.16 |  [2615](https://www.acmicpc.net/problem/2615)  | 오목                | 구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 <br />
 
