@@ -15,6 +15,7 @@
 | 2023.01.16 |  [2615](https://www.acmicpc.net/problem/2615)  | 오목                |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2023.01.17 |  [1966](https://www.acmicpc.net/problem/1966)  | 프린터 큐           | 자료구조 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.01.18 | [18111](https://www.acmicpc.net/problem/18111) | 마인크래프트        |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.01.18 |  [1874](https://www.acmicpc.net/problem/1874)  | 스택 수열           | 자료구조 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
