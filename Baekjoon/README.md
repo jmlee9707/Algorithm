@@ -20,6 +20,7 @@
 | 2023.01.19 |  [2941](https://www.acmicpc.net/problem/2941)   | 크로아티아 알파벳   |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 | 2023.01.19 |  [1213](https://www.acmicpc.net/problem/1213)   | 팰린드롬 만들기     |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.01.25 | [16234](https://www.acmicpc.net/problem/162343) | 인구 이동           |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.01.27 | [15686](https://www.acmicpc.net/problem/15686)  | 치킨 배달           |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <br />
 
