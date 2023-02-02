@@ -22,6 +22,7 @@
 | 2023.01.25 | [16234](https://www.acmicpc.net/problem/162343) | 인구 이동           |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.01.27 | [15686](https://www.acmicpc.net/problem/15686)  | 치킨 배달           |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.01.30 | [15683](https://www.acmicpc.net/problem/15683)  | 감시                |   구현   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 2023.02.02 |  [1325](https://www.acmicpc.net/problem/1325)   | 효율적인 해킹       | BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
