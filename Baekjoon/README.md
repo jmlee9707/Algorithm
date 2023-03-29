@@ -28,6 +28,7 @@
 | 2023.03.12 | [14940](https://www.acmicpc.net/problem/10703)  | 유성                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.03.19 | [11559](https://www.acmicpc.net/problem/11559)  | puyo puyo           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 2023.03.27 | [21608](https://www.acmicpc.net/problem/21608)  | 상어초등학교        | 구현/정렬 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.03.28 |  [3190](https://www.acmicpc.net/problem/3190)   | 뱀                  |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 <br />
 
