@@ -21,6 +21,4 @@
 | 2022.10.21 |    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92334" target="_blank">신고 결과 받기</a>     | 신고 결과 받기        |  LV.1  |
 | 2022.10.27 |       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">타겟 넘버</a>       | 타겟 넘버             |  LV.2  |
 | 2022.10.27 |    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844" target="_blank">게임 맵 최단거리</a>    | 게임 맵 최단거리      |  LV.2  |
-| 2023.03.31 |        <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679" target="_blank">프렌즈4블록        |
-|    </a>    |                                                     프렌즈4블록                                                     |
-|    LV.2    |
+| 2023.03.31 |      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17679" target="_blank">프렌즈4블록<a>       | 프렌즈4블록           |  LV.2  |
