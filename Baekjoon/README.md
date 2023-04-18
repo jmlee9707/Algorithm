@@ -4,35 +4,36 @@
 
 ### WHAT I STUDIED (2023)
 
-|    날짜    |                      번호                       | 제목                |   유형    |                                       난이도                                       |
-| :--------: | :---------------------------------------------: | :------------------ | :-------: | :--------------------------------------------------------------------------------: |
-| 2023.01.08 | [20546](https://www.acmicpc.net/problem/20546)  | 🐜 기적의 매매법 🐜 |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
-| 2023.01.09 |  [4396](https://www.acmicpc.net/problem/4396)   | 지뢰찾기            |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
-| 2023.01.10 |  [1913](https://www.acmicpc.net/problem/1913)   | 달팽이              |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.01.11 | [12933](https://www.acmicpc.net/problem/12933)  | 오리                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.01.13 | [20291](https://www.acmicpc.net/problem/20291)  | 파일 정리           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.01.14 | [17413](https://www.acmicpc.net/problem/17413)  | 단어 뒤집기2        |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.01.16 |  [2615](https://www.acmicpc.net/problem/2615)   | 오목                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 2023.01.17 |  [1966](https://www.acmicpc.net/problem/1966)   | 프린터 큐           | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.01.18 | [18111](https://www.acmicpc.net/problem/18111)  | 마인크래프트        |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
-| 2023.01.18 |  [1874](https://www.acmicpc.net/problem/1874)   | 스택 수열           | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
-| 2023.01.19 |  [4673](https://www.acmicpc.net/problem/4673)   | 셀프 넘버           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
-| 2023.01.19 |  [2941](https://www.acmicpc.net/problem/2941)   | 크로아티아 알파벳   |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
-| 2023.01.19 |  [1213](https://www.acmicpc.net/problem/1213)   | 팰린드롬 만들기     |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.01.25 | [16234](https://www.acmicpc.net/problem/162343) | 인구 이동           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2023.01.27 | [15686](https://www.acmicpc.net/problem/15686)  | 치킨 배달           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2023.01.30 | [15683](https://www.acmicpc.net/problem/15683)  | 감시                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 2023.02.02 |  [1325](https://www.acmicpc.net/problem/1325)   | 효율적인 해킹       |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
-| 2023.02.15 | [16918](https://www.acmicpc.net/problem/16918)  | 봄버맨              |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
-| 2023.02.17 | [14940](https://www.acmicpc.net/problem/14940)  | 쉬운 최단거리       |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
-| 2023.03.12 | [10703](https://www.acmicpc.net/problem/10703)  | 유성                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
-| 2023.03.19 | [11559](https://www.acmicpc.net/problem/11559)  | puyo puyo           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 2023.03.27 | [21608](https://www.acmicpc.net/problem/21608)  | 상어초등학교        | 구현/정렬 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2023.03.28 |  [3190](https://www.acmicpc.net/problem/3190)   | 뱀                  |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 2023.03.29 |  [2573](https://www.acmicpc.net/problem/2573)   | 빙산                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
-| 2023.04.17 | [19238](https://www.acmicpc.net/problem/19238)  | 스타트택시          |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
-| 2023.04.18 | [14891](https://www.acmicpc.net/problem/14891)  | 톱니바퀴            |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
-| 2023.04.18 |  [2638](https://www.acmicpc.net/problem/2638)   | 치즈                |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+|    날짜    |                      번호                       | 제목                   |   유형    |                                       난이도                                       |
+| :--------: | :---------------------------------------------: | :--------------------- | :-------: | :--------------------------------------------------------------------------------: |
+| 2023.01.08 | [20546](https://www.acmicpc.net/problem/20546)  | 🐜 기적의 매매법 🐜    |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.01.09 |  [4396](https://www.acmicpc.net/problem/4396)   | 지뢰찾기               |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2023.01.10 |  [1913](https://www.acmicpc.net/problem/1913)   | 달팽이                 |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.11 | [12933](https://www.acmicpc.net/problem/12933)  | 오리                   |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.13 | [20291](https://www.acmicpc.net/problem/20291)  | 파일 정리              |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.14 | [17413](https://www.acmicpc.net/problem/17413)  | 단어 뒤집기2           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.16 |  [2615](https://www.acmicpc.net/problem/2615)   | 오목                   |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2023.01.17 |  [1966](https://www.acmicpc.net/problem/1966)   | 프린터 큐              | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.18 | [18111](https://www.acmicpc.net/problem/18111)  | 마인크래프트           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.01.18 |  [1874](https://www.acmicpc.net/problem/1874)   | 스택 수열              | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.01.19 |  [4673](https://www.acmicpc.net/problem/4673)   | 셀프 넘버              |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.01.19 |  [2941](https://www.acmicpc.net/problem/2941)   | 크로아티아 알파벳      |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.01.19 |  [1213](https://www.acmicpc.net/problem/1213)   | 팰린드롬 만들기        |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.01.25 | [16234](https://www.acmicpc.net/problem/162343) | 인구 이동              |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.01.27 | [15686](https://www.acmicpc.net/problem/15686)  | 치킨 배달              |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.01.30 | [15683](https://www.acmicpc.net/problem/15683)  | 감시                   |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 2023.02.02 |  [1325](https://www.acmicpc.net/problem/1325)   | 효율적인 해킹          |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.02.15 | [16918](https://www.acmicpc.net/problem/16918)  | 봄버맨                 |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.02.17 | [14940](https://www.acmicpc.net/problem/14940)  | 쉬운 최단거리          |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.03.12 | [10703](https://www.acmicpc.net/problem/10703)  | 유성                   |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.03.19 | [11559](https://www.acmicpc.net/problem/11559)  | puyo puyo              |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 2023.03.27 | [21608](https://www.acmicpc.net/problem/21608)  | 상어초등학교           | 구현/정렬 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.03.28 |  [3190](https://www.acmicpc.net/problem/3190)   | 뱀                     |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 2023.03.29 |  [2573](https://www.acmicpc.net/problem/2573)   | 빙산                   |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+| 2023.04.17 | [19238](https://www.acmicpc.net/problem/19238)  | 스타트택시             |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+| 2023.04.18 | [14891](https://www.acmicpc.net/problem/14891)  | 톱니바퀴               |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.04.18 |  [2638](https://www.acmicpc.net/problem/2638)   | 치즈                   |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+| 2023.04.18 | [20056](https://www.acmicpc.net/problem/20056)  | 마법사 상어와 파이어볼 |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 <br />
 
