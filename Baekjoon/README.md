@@ -31,6 +31,7 @@
 | 2023.03.28 |  [3190](https://www.acmicpc.net/problem/3190)   | 뱀                  |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 2023.03.29 |  [2573](https://www.acmicpc.net/problem/2573)   | 빙산                |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 2023.04.17 | [19238](https://www.acmicpc.net/problem/19238)  | 스타트택시          |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+| 2023.04.18 | [14891](https://www.acmicpc.net/problem/14891)  | 톱니바퀴            |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <br />
 
