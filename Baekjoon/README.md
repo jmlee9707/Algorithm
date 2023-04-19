@@ -35,6 +35,7 @@
 | 2023.04.18 |  [2638](https://www.acmicpc.net/problem/2638)   | 치즈                   |  BFS/DFS  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 2023.04.18 | [20056](https://www.acmicpc.net/problem/20056)  | 마법사 상어와 파이어볼 |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 2023.04.19 | [20413](https://www.acmicpc.net/problem/20413)  | 다이아몬드 (Easy)      |  그리디   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.04.19 | [16935](https://www.acmicpc.net/problem/16935)  | 배열 돌리기3           |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 <br />
 
