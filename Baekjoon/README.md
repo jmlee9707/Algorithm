@@ -39,6 +39,7 @@
 | 2023.04.21 | [14500](https://www.acmicpc.net/problem/14500)  | 테트로미노                  |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 2023.04.23 |  [5430](https://www.acmicpc.net/problem/5430)   | AC                          |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.04.24 |  [1620](https://www.acmicpc.net/problem/1620)   | 나는야 포켓몬 마스터 이다솜 | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2023.04.24 | [17219](https://www.acmicpc.net/problem/17219)  | 비밀번호 찾기               | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 
 <br />
 
