@@ -40,6 +40,7 @@
 | 2023.04.23 |  [5430](https://www.acmicpc.net/problem/5430)   | AC                          |   구현    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.04.24 |  [1620](https://www.acmicpc.net/problem/1620)   | 나는야 포켓몬 마스터 이다솜 | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 | 2023.04.24 | [17219](https://www.acmicpc.net/problem/17219)  | 비밀번호 찾기               | 자료구조  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2023.05.01 | [15729](https://www.acmicpc.net/problem/15729)  | 방탈출                      |  그리디   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
