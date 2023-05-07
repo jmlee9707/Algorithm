@@ -43,6 +43,7 @@
 | 2023.05.01 | [15729](https://www.acmicpc.net/problem/15729)  | 방탈출                      |  그리디   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.05.01 | [11399](https://www.acmicpc.net/problem/11399)  | ATM                         |  그리디   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 | 2023.05.06 | [20665](https://www.acmicpc.net/problem/20665)  | 독서실 거리두기             | 정렬/구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.05.07 |  [6593](https://www.acmicpc.net/problem/6593)   | 상범빌딩                    |    BFS    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <br />
 
