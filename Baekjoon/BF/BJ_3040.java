@@ -3,6 +3,10 @@ package BF;
 import java.util.Scanner;
 
 public class BJ_3040 {
+    /*
+     * 백준 3040
+     * 백설 공주와 일곱 난쟁이
+     */
 
     static int[] dwarfs = new int[9];
     static int[] combi;
