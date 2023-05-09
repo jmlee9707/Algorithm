@@ -1,4 +1,4 @@
-package ExhaustiveSearch;
+package BF;
 
 import java.util.Scanner;
 
