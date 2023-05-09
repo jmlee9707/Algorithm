@@ -1,4 +1,4 @@
-package ExhaustiveSearch;
+package BF;
 
 import java.io.BufferedReader;
 import java.io.IOException;
