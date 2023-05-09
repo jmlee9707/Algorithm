@@ -27,6 +27,8 @@ public class Solution_17679 {
     public static void main(String[] args) {
         res = sol(4, 5, board);
         System.out.println(res);
+        String name;
+        name.substring(res, res)
     }
 
     public static int sol(int m, int n, String[] board) {

@@ -40,7 +40,7 @@ class Solution1 {
         Queue<Position> que = new LinkedList<>();
         que.add(new Position(0, 0, 1));
         visited[0][0] = true;
-
+        System.out.println();
         int n = maps.length;
         int m = maps[0].length;
 

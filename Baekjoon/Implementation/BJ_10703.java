@@ -70,11 +70,7 @@ public class BJ_10703 {
             }
         }
 
-        // if (endStar == -1) // 운석이 없을 경우
-        // return 0;
-        // else
         return Math.abs(startGround - endStar);
-
     }
 
     public static void moveMap() {
