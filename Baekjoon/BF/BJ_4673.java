@@ -1,4 +1,4 @@
-package Implementation;
+package Baekjoon.BF;
 
 public class BJ_4673 {
     /*
