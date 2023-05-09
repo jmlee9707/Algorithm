@@ -43,6 +43,7 @@
 | 2023.05.06 | [20665](https://www.acmicpc.net/problem/20665)  | 독서실 거리두기             | 정렬/구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.05.07 |  [6593](https://www.acmicpc.net/problem/6593)   | 상범빌딩                    |    BFS    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.05.09 |  [1065](https://www.acmicpc.net/problem/1065)   | 한수                        | 완전탐색  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
+| 2023.05.09 | [11659](https://www.acmicpc.net/problem/11659)  | 구간 합 구하기4             | 완전탐색  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 
 <br />
 
