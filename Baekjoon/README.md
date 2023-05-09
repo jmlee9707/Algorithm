@@ -1,7 +1,5 @@
 # 백준 문제 풀이
 
-2023년 1월 8일부터 1일 1 알고리즘 도전!
-
 ### WHAT I STUDIED (2023)
 
 |    날짜    |                      번호                       | 제목                        |   유형    |                                       난이도                                       |
@@ -44,6 +42,7 @@
 | 2023.05.01 | [11399](https://www.acmicpc.net/problem/11399)  | ATM                         |  그리디   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 | 2023.05.06 | [20665](https://www.acmicpc.net/problem/20665)  | 독서실 거리두기             | 정렬/구현 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.05.07 |  [6593](https://www.acmicpc.net/problem/6593)   | 상범빌딩                    |    BFS    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.05.09 |  [1065](https://www.acmicpc.net/problem/1065)   | 한수                        | 완전탐색  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 
 <br />
 
