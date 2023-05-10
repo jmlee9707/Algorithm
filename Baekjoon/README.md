@@ -48,6 +48,7 @@
 | 2023.05.09 |  [2210](https://www.acmicpc.net/problem/2210)   | 숫자판 점프                 | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.05.10 |  [2961](https://www.acmicpc.net/problem/2961)   | 도영이가 만든 맛있는 음식   | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.05.10 | [14889](https://www.acmicpc.net/problem/14889)  | 스타트와 링크               | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.05.10 |  [1038](https://www.acmicpc.net/problem/1038)   | 감소하는 수                 | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <br />
 
