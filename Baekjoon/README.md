@@ -46,6 +46,8 @@
 | 2023.05.09 | [11659](https://www.acmicpc.net/problem/11659)  | 구간 합 구하기4             |   완전탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.05.09 |  [1411](https://www.acmicpc.net/problem/1411)   | 비슷한 단어                 | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.05.09 |  [2210](https://www.acmicpc.net/problem/2210)   | 숫자판 점프                 | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.05.10 |  [2961](https://www.acmicpc.net/problem/2961)   | 도영이가 만든 맛있는 음식   | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.05.10 | [14889](https://www.acmicpc.net/problem/14889)  | 스타트와 링크               | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
