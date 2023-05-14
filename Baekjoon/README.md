@@ -50,6 +50,7 @@
 | 2023.05.10 | [14889](https://www.acmicpc.net/problem/14889)  | 스타트와 링크               | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.05.10 |  [1038](https://www.acmicpc.net/problem/1038)   | 감소하는 수                 | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.05.10 |  [1174](https://www.acmicpc.net/problem/1174)   | 줄어드는 수                 | 완전탐색/조합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.05.14 |  [8979](https://www.acmicpc.net/problem/8979)   | 올림픽                      |   구현/정렬   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 
 <br />
 
