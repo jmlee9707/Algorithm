@@ -53,6 +53,9 @@
 | 2023.05.14 |  [8979](https://www.acmicpc.net/problem/8979)   | 올림픽                      |   구현/정렬   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 | 2023.05.19 |  [9095](https://www.acmicpc.net/problem/9095)   | 1, 2, 3 더하기              |      DP       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.05.19 | [11723](https://www.acmicpc.net/problem/11723)  | 집합                        | 구현/자료구조 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.06.25 | [14425](https://www.acmicpc.net/problem/14425)  | 문자열 집합                 |   자료구조    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.06.25 |  [1966](https://www.acmicpc.net/problem/1966)   | 프린터큐 (재풀이)           |   자료구조    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.06.25 |  [2075](https://www.acmicpc.net/problem/2075)   | N번째 큰 수                 |   자료구조    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
