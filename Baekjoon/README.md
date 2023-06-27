@@ -60,6 +60,7 @@
 |              2023.06.27              |  [1789](https://www.acmicpc.net/problem/1789)   | 수들의 합                   |   이진탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 | static.solved.ac/tier_small/7.svg"/> |
 |              2023.06.27              | [10815](https://www.acmicpc.net/problem/10815)  | 숫자 카드                   |   이진탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+|              2023.06.27              |  [2417](https://www.acmicpc.net/problem/2417)   | 정수 제곱근                 |     수학      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 
 <br />
 
