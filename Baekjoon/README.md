@@ -61,6 +61,7 @@
 | 2023.06.27 | [10815](https://www.acmicpc.net/problem/10815)  | 숫자 카드                   |   이진탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
 | 2023.06.27 |  [2417](https://www.acmicpc.net/problem/2417)   | 정수 제곱근                 |     수학      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 | 2023.06.27 |  [2800](https://www.acmicpc.net/problem/2800)   | 괄호 제거                   |   자료구조    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.06.28 |  [2512](https://www.acmicpc.net/problem/2512)   | 예산                        |   이분탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 
 <br />
 
