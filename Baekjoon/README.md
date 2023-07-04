@@ -65,6 +65,7 @@
 | 2023.06.28 | [19637](https://www.acmicpc.net/problem/19637)  | IF문 좀 대신 써줘           |   이분탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.06.30 |  [2824](https://www.acmicpc.net/problem/2824)   | 최대공약수                  |     수학      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2023.07.04 |  [1931](https://www.acmicpc.net/problem/1931)   | 회의실 배정                 |    그리디     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2023.07.04 |  [2578](https://www.acmicpc.net/problem/2578)   | 빙고 (재풀이)               |     구현      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 
 <br />
 
