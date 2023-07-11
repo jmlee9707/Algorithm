@@ -70,6 +70,7 @@
 | 2023.07.11 | [16439](https://www.acmicpc.net/problem/16439)  | 치킨치킨치킨                |   완전탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/>  |
 | 2023.07.11 |  [1260](https://www.acmicpc.net/problem/1260)   | BFS와 DFS (재풀이)          |    BFS/DFS    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.07.11 |  [5212](https://www.acmicpc.net/problem/5212)   | 지구온난화 (재풀이)         |  시뮬레이션   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.07.11 | [15661](https://www.acmicpc.net/problem/15661)  | 링크와 스타트               |   완전탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 <br />
 
