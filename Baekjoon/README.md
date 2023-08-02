@@ -75,6 +75,7 @@
 | 2023.08.02 |  [1654](https://www.acmicpc.net/problem/1654)   | 랜선자르기                  |   이분탐색    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 | 2023.08.02 | [15649](https://www.acmicpc.net/problem/15649)  | N과 M (1)                   |   백트래킹    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.08.02 | [15663](https://www.acmicpc.net/problem/15663)  | N과 M (9)                   |   백트래킹    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 2023.08.02 |  [2639](https://www.acmicpc.net/problem/2639)   | 색종이 만들기               |   분할정복    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
 
 <br />
 
