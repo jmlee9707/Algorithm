@@ -1,4 +1,4 @@
-package Implementation;
+package String;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -12,6 +12,7 @@ public class BJ_20291 {
     /*
      * 백준 20291
      * 파일 정리
+     * before
      */
     static int N; // 파일의 개수
 
