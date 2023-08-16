@@ -1,4 +1,4 @@
-package BF;
+package PrefixSum;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,6 +9,7 @@ public class BJ_11659 {
     /*
      * 백준 11659
      * 구간 합 구하기 4
+     * 누적합
      */
     static int N, M, dist;
     static int[] numbers;
