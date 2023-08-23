@@ -85,6 +85,7 @@
 | 2023.08.16 | [21921](https://www.acmicpc.net/problem/21921)  | 블로그                      | 누적합, 투포인터 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.08.16 |  [3273](https://www.acmicpc.net/problem/3273)   | 두 수의 합                  |     투포인터     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.08.17 |  [2428](https://www.acmicpc.net/problem/2428)   | 표절                        |     투포인터     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.08.23 |  [1713](https://www.acmicpc.net/problem/1713)   | 후보 추천 하기              |    시뮬레이션    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 <br />
 
