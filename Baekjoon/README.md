@@ -87,6 +87,8 @@
 | 2023.08.17 |  [2428](https://www.acmicpc.net/problem/2428)   | 표절                        |     투포인터     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.08.23 |  [1713](https://www.acmicpc.net/problem/1713)   | 후보 추천 하기              |    시뮬레이션    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2023.09.08 | [14888](https://www.acmicpc.net/problem/14888)  | 연산자 끼워넣기             |     백트래킹     | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2023.09.14 | [17836](https://www.acmicpc.net/problem/17836)  | 공주님을 구해라             |     BFS/DFS      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.09.14 | [17406](https://www.acmicpc.net/problem/17406)  | 배열돌리기4                 |     BFS/DFS      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 <br />
 
