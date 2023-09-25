@@ -90,6 +90,7 @@
 | 2023.09.14 | [17836](https://www.acmicpc.net/problem/17836)  | 공주님을 구해라             |     BFS/DFS      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2023.09.14 | [17406](https://www.acmicpc.net/problem/17406)  | 배열돌리기4                 |     BFS/DFS      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 | 2023.09.20 |  [6118](https://www.acmicpc.net/problem/6118)   | 숨바꼭질                    |      Graph       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2023.09.25 | [14502](https://www.acmicpc.net/problem/14502)  | 연구소                      |    Simulation    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 
 <br />
 
