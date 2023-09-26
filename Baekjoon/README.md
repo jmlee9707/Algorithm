@@ -94,6 +94,7 @@
 | 2023.09.25 | [16236](https://www.acmicpc.net/problem/16236)  | 아기상어                          |    Simulation    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 | 2023.09.25 | [20529](https://www.acmicpc.net/problem/20529)  | 가장 가까운 세 사람의 심리적 거리 |        BF        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2023.09.26 |  [2589](https://www.acmicpc.net/problem/2589)   | 보물섬                            |       BFS        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2023.09.26 | [17144](https://www.acmicpc.net/problem/17144)  | 미세먼지 안녕!                    |       BFS        | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 <br />
 
