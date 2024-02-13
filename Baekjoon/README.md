@@ -9,6 +9,7 @@
 | 2023.02.08 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | 구간합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2023.02.08 | [11441](https://www.acmicpc.net/problem/11441) | 합 구하기        | 구간합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
 | 2023.02.08 | [20116](https://www.acmicpc.net/problem/20116) | 상자의 균형      | 누적합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.02.13 | [21318](https://www.acmicpc.net/problem/21318) | 피아노 체조      | 누적합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 
 ### WHAT I STUDIED (2023)
 
