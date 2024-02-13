@@ -2,14 +2,15 @@
 
 ### WHAT I STUDIED (2024)
 
-|    날짜    |                      번호                      | 제목             |  유형  |                                       난이도                                       |
-| :--------: | :--------------------------------------------: | :--------------- | :----: | :--------------------------------------------------------------------------------: |
-| 2023.02.07 | [14929](https://www.acmicpc.net/problem/14929) | 귀찮아(SIB)      | 누적합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
-| 2023.02.07 |  [2167](https://www.acmicpc.net/problem/2167)  | 2차원 배열의 합  | 구간합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
-| 2023.02.08 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 | 구간합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-| 2023.02.08 | [11441](https://www.acmicpc.net/problem/11441) | 합 구하기        | 구간합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.02.08 | [20116](https://www.acmicpc.net/problem/20116) | 상자의 균형      | 누적합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
-| 2023.02.13 | [21318](https://www.acmicpc.net/problem/21318) | 피아노 체조      | 누적합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+|    날짜    |                      번호                      | 제목             |    유형     |                                       난이도                                       |
+| :--------: | :--------------------------------------------: | :--------------- | :---------: | :--------------------------------------------------------------------------------: |
+| 2023.02.07 | [14929](https://www.acmicpc.net/problem/14929) | 귀찮아(SIB)      |   누적합    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.02.07 |  [2167](https://www.acmicpc.net/problem/2167)  | 2차원 배열의 합  |   구간합    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/>  |
+| 2023.02.08 | [11660](https://www.acmicpc.net/problem/11660) | 구간 합 구하기 5 |   구간합    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2023.02.08 | [11441](https://www.acmicpc.net/problem/11441) | 합 구하기        |   구간합    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.02.08 | [20116](https://www.acmicpc.net/problem/20116) | 상자의 균형      |   누적합    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/>  |
+| 2023.02.13 | [21318](https://www.acmicpc.net/problem/21318) | 피아노 체조      |   누적합    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+| 2023.02.13 |  [2015](https://www.acmicpc.net/problem/2015)  | 수들의 합 4      | 누적합,해시 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 
 ### WHAT I STUDIED (2023)
 
