@@ -61,7 +61,7 @@ public class BJ_1411 {
             char compare = s2.charAt(i);
 
             if (!map.containsKey(origin)) {
-                if (map.containsValue(compare))
+                if (containsValue(compare))
                     return false;
                 map.put(origin, compare);
                 temp += compare;

@@ -15,7 +15,6 @@ public class BJ_2615 {
     public static int[] dc = { 1, 1, 1, 0 };
     public static int winner, cnt;
 
-    // 반례 조심!
     // 한지점에 오목과 육목이 겹쳐 있는 경우가 있음
 
     public static void main(String[] args) throws IOException {
