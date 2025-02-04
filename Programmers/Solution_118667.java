@@ -67,6 +67,6 @@ public class Solution_118667 {
         }
 
         System.out.println(answer);
-
+        Stack<Character> stack = new Stack<>();
     }
 }
