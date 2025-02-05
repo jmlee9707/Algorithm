@@ -7,6 +7,11 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class BJ_1806 {
+    /*
+     * 백준 1806
+     * 부분합
+     * 누적합
+     */
     static int N, S;
     static int[] prefix, num;
     static int start, res;
